@@ -1,0 +1,8 @@
+body{
+background-color:rgb(227, 242, 253);
+}
+header{
+    position: sticky;
+    top:0px;
+    z-index:1000;
+}
